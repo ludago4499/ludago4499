@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ludago4499
 - 👀 I’m interested in Science, Maths, Physics 
-- 🌱 I’m currently learning Quantum Physics
+- 🌱 I’m currently learning Quantum Physics and Electromagnetism
 - 💞️ Look forward to message me!
-- 📫 How to reach me email, discord proced
+- 📫 How to reach me email, discord: proced
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I have two orange cats!
 
