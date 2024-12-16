@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ludago4499
+- 👋 Hi, I’m @ludago4499, you can call me Luis
 - 👀 I’m interested in Science, Maths, Physics 
 - 🌱 I’m currently learning Quantum Physics and Electromagnetism
 - 💞️ Look forward to message me!
