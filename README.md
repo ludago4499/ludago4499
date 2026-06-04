@@ -9,7 +9,7 @@
 -  Programs in Python, Java, MATLAB, Julia, R.
 -  Learning currently front-end development such as Streamlit. 
 -  Can speak fluently Spanish and English. Moderate B1 German Proficiency.
--  Average typing speed of around 110 wpm. Monkey Type profile: [https://monkeytype.com/profile/Proced](url)
+-  Average typing speed of around 110 wpm. Monkey Type profile: https://monkeytype.com/profile/ludago4499
 -  Experience using physical quantum computers and algorithms.
 
 
